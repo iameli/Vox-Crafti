@@ -1,0 +1,7 @@
+name: Vox Crafti
+main: net.bluecardinal.voxcrafti.VoxCrafti
+version: 0.1
+commands:
+  g:
+    description: godmode
+    usage: /g
